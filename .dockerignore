@@ -1,0 +1,6 @@
+.git/
+node_modules/
+Makefile
+*.swp
+README.md
+.gitignore
